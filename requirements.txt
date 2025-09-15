@@ -1,4 +1,5 @@
-streamlit==1.36.0
-ultralytics==8.2.50
-pillow==10.4.0
-torch>=2.0.0
+streamlit>=1.24
+opencv-python
+numpy
+pandas
+ultralytics>=8.0.0    # optional but recommended for real YOLOv8 inference
