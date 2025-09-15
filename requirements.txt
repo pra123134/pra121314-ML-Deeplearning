@@ -1,5 +1,0 @@
-streamlit>=1.24
-opencv-python
-numpy
-pandas
-ultralytics>=8.0.0    # optional but recommended for real YOLOv8 inference
