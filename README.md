@@ -1,7 +1,7 @@
 Smarter Safety: Real-Time PPE Detection System
 📌 Overview
 
-This project builds an AI-powered Personal Protective Equipment (PPE) Monitoring System using YOLOv8 and Streamlit. The system helps construction and industrial sites automatically detect whether workers are wearing required safety gear (hard hats, masks, vests) in real time, reducing risks and improving compliance.
+This project develops an AI-powered Personal Protective Equipment (PPE) monitoring system utilizing YOLOv8 and Streamlit. The system helps construction and industrial sites automatically detect whether workers are wearing required safety gear (hard hats, masks, vests) in real time, reducing risks and improving compliance.
 
 🚧 Why This Matters
 
